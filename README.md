@@ -238,7 +238,7 @@ git clone https://github.com/Signals-and-Systems-aka-Uniwa/Analog-Signals.git
 
 Recommended folder:
 ```bash
-Matlab/src/
+Analog-Signals/src/
 ```
 
 ## 4. Running the Scripts
